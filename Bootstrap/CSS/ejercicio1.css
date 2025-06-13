@@ -1,0 +1,17 @@
+.header {
+    height: 60px;
+    margin: 2px;
+}
+
+.caja {
+    height: 400px;
+    margin: 2px;
+}
+
+.gris {
+    background-color: lightgrey;
+}
+
+.azul {
+    background-color: royalblue;
+}
