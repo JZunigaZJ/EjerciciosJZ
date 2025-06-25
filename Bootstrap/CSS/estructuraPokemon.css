@@ -99,10 +99,10 @@
 
 .megaevolucion {
     background-color: var(--azul);
-    border-radius: 10px;
-    overflow: hidden;
     color: #fff;
+    border-radius: 10px;
     padding: 0;
+    overflow: hidden;
 }
 
 .megaevolucion header {
@@ -113,10 +113,10 @@
 
 .naic {
     background-color: var(--verde);
-    border-radius: 10px;
-    overflow: hidden;
     color: #fff;
+    border-radius: 10px;
     padding: 0;
+    overflow: hidden;
 }
 
 .naic header {
